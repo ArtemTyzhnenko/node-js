@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Hou",
+    "email": "hou@mail.com",
+    "password": "$2b$10$u2r3EK7.p4l9bzQd74nGNepvIHw5gF84j4Dy6/kJmtNR4OC.A5t5O"
+  },
+  {
+    "id": 2,
+    "email": "artemtest@gmail.com",
+    "name": "Artem",
+    "password": "$2b$10$fR8LduC6KNiTkd9qGiFzwO2t428RblGzOvNyN9pIAJi6ZXyr7I70e"
+  },
+  {
+    "id": 3,
+    "email": "artemtest2@gmail.com",
+    "name": "Artem",
+    "password": "$2b$10$4UpJNjGmal.WOztEFU4ZIOaLkQPkOTcrDezK9ego6O5Rc1ssAL2o6"
+  },
+  {
+    "id": 4,
+    "email": "artemtest3@gmail.com",
+    "name": "Artem",
+    "password": "$2b$10$CYUhLZfJsKy6gvqMN4lvB.Tj2nNxtkubCum7w4jKDXmnJGCDUFr.S"
+  }
+]
